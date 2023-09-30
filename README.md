@@ -37,6 +37,17 @@ The following libraries and frameworks were used in this project:
 - Matplotlib
 - NumPy
 
-## Acknowledgments
+## Acknowledgments & References 
 
 - The dataset used in this project is provided by [Khairunneesa](https://www.kaggle.com/khairunneesa) on Kaggle. We acknowledge their contribution to making this dataset available for research and development.
+  - [Depression Dataset on Facial Expression Images](https://www.kaggle.com/datasets/khairunneesa/depression-dataset-on-facialecpression-images) by Khairun Neesa. (2023, June 25). Kaggle.
+  
+- [Softmax Activation Function: How It Actually Works](https://towardsdatascience.com/softmax-activationfunction-how-it-actually-works-d292d335bd78) by Kiprono Elijah Koech. (2020, September 30). Towards Data Science.
+  
+- [The 6 Types of Basic Emotions and Their Effect on Human Behavior](https://www.verywellmind.com/an-overview-of-thetypes-of-emotions-4163976) by Kendra Cherry. (2022, December 1). Very Well Mind.
+
+- [Introduction to Convolutional Neural Networks (CNN)](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neuralnetworks-cnn/) by Manav Mandal. (2021, May 1). Analytics Vidhya.
+
+- [Image classification](https://www.tensorflow.org/tutorials/images/classification). TensorFlow API Documentation.
+
+- [tf.all_symbols](https://www.tensorflow.org/api_docs/python/tf/all_symbols). TensorFlow API Documentation.
